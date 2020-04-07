@@ -1,0 +1,11 @@
+C:\Users\novak\Desktop\ParLab1\ParLab1\obj\Debug\Lab1.Main.resources
+C:\Users\novak\Desktop\ParLab1\ParLab1\obj\Debug\ParLab1.Properties.Resources.resources
+C:\Users\novak\Desktop\ParLab1\ParLab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\novak\Desktop\ParLab1\ParLab1\obj\Debug\ParLab1.exe
+C:\Users\novak\Desktop\ParLab1\ParLab1\obj\Debug\ParLab1.pdb
+C:\Users\novak\Desktop\ParLab1\ParLab1\bin\Debug\ParLab1.exe.config
+C:\Users\novak\Desktop\ParLab1\ParLab1\bin\Debug\ParLab1.exe
+C:\Users\novak\Desktop\ParLab1\ParLab1\bin\Debug\ParLab1.pdb
+C:\Users\novak\Desktop\Lab1\code\ParLab1\bin\Debug\ParLab1.exe.config
+C:\Users\novak\Desktop\Lab1\code\ParLab1\obj\Debug\ParLab1.exe
+C:\Users\novak\Desktop\Lab1\code\ParLab1\obj\Debug\ParLab1.pdb
